@@ -1,4 +1,4 @@
-# yogiyo_comment_analysis
+# 기업 연계 프로젝트 고객 댓글 분석
 
 # 파일 설명
 
